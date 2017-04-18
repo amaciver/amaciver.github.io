@@ -2151,3 +2151,19 @@
 			}
 
 		}
+.headshot-wrapper {
+	height: 300px;
+	width: 200px;
+	border-radius: 346px;
+	overflow: hidden;
+}
+
+.headshot {
+	height: 300px;
+}
+
+#intro-content {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}

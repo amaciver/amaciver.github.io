@@ -2167,3 +2167,7 @@
 	flex-direction: column;
 	align-items: center;
 }
+
+iframe {
+	z-index: 0;
+}
